@@ -1,1 +1,3 @@
-aaaaa
+print('a')
+
+oooooo
